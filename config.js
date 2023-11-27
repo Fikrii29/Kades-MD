@@ -1,17 +1,17 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['6281395861695']  //silahkan ganti dengan nomor mu
+global.mods = ['6281395861695']   //silahkan gnti dengan nomor mu
+global.prems = ['6281395861695'] //silahkan ganti dengan nomor mu
 global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.numberowner = '6281395861695' //silahkan ganti dengan nomor mu
+global.mail = 'support@tioprm.my.id' //bebas mau di ubah apa gak
+global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'   //ubah pake link group mu kalo ada
+global.instagram = 'https://instagram.com/prm2.0'   //bebasmau di ubah atau gak
+global.wm = '© Tio'  //ubah pake nama mu juga bisa
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
+global.author = 'Bot WhatsApp'   //ubah pake namamu juga bisa
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
